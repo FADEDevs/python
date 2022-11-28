@@ -1,1 +1,1 @@
-web: gunicorn app:app
+web: gunicorn app:prueba_email_sendgrid.py
